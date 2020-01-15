@@ -1,0 +1,36 @@
+for loop:
+
+var name =["A", "B", "C"]
+for n in name{
+print(n)
+}
+
+if else:
+
+if a ==8{
+print("Anamioka"
+}
+else if a==1{
+print("Shishi")
+}
+else if a ==10;{
+print(Al amin &&faysal)
+}
+else{
+print("nothing found")
+}
+
+Switch:
+
+
+Var num = 10
+switch num{
+case 8:
+print("Anamika")
+case 1:
+print("Shishir")
+cse 10:
+print("Al amin&&Faysal")
+default:
+print("No matchimng")
+}
